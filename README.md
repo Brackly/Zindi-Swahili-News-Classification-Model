@@ -1,6 +1,6 @@
 # Swahili-News-Classification-Model
 
-![alt text](http://url/to/img.png)
+![alt text](./Transformerjpg)
 
 This repo contains code on how to take a BERT based model already trained on Swahili, and finetune it to classify swahili text into 5 categories:
 1. Kimataifa(International news),
